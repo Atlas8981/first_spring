@@ -27,4 +27,5 @@ public class StudentConfig {
             repository.saveAll(List.of(atlas, alex));
         };
     };
+
 }
